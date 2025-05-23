@@ -29,4 +29,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/dnielpy/git-heatmap-cli.git
 cd git-heatmap-cli
-chmod +x github_contributions.sh
+chmod +x script.sh
